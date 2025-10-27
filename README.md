@@ -30,5 +30,3 @@ The analysis includes:
 
 📌 *Plots and graphs are included in the notebook.*
 
-
-## 📂 Project Structure
